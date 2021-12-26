@@ -1,3 +1,1 @@
 my name is abc
-i am file abc
-now i am ok.
